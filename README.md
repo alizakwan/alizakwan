@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alizakwan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript/
-- 💞️ I’m 20 years old
+- 🌱 I’m currently learning React Nodejs
+- 💞️ I’m 21 years old
 - 📫 Reach me on [twitter](https://twitter.com/alizakwanansari) 
 
 <!---
